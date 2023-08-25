@@ -30,7 +30,7 @@ Extra material:
 ## 2. Folders <a name = folders></a>
 ### Students folder
 Please use this folder to put your a clone/copy of your own repository.
-[students repo](https://github.com/Earlham-College/DS128EC/tree/main/data/students)
+[students repo](https://github.com/Earlham-College/CS128EC/tree/main/students)
 
 
 # References <a name="references"></a>
