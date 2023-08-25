@@ -1,4 +1,4 @@
-# Statistics Modeling for Data Science
+# Programming and Problem Solving
 #### By: Javier Orduz
 [license-badge]: https://img.shields.io/badge/License-CC-orange
 [license]: https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en
@@ -6,7 +6,7 @@
 [![CC License][license-badge]][license]  [![DS](https://img.shields.io/badge/downloads-DS-green)](https://github.com/Earlham-College/DS_Fall_2022)  [![Github](https://img.shields.io/badge/jaorduz-repos-blue)](https://github.com/jaorduz/)  ![Follow @jaorduc](https://img.shields.io/twitter/follow/jaorduc?label=follow&logo=twitter&logoColor=lkj&style=plastic)
 
 
-This repo has material of my course course on Data Science 2023.
+This repo has material of my course on Programming 2023.
 
 ## Contents
 1. [Python Basics](#pythonBasics)
@@ -30,7 +30,7 @@ Extra material:
 ## 2. Folders <a name = folders></a>
 ### Students folder
 Please use this folder to put your a clone/copy of your own repository.
-[students repo](https://github.com/Earlham-College/DS401EC/tree/main/data)
+[students repo](https://github.com/Earlham-College/DS128EC/tree/main/data/students)
 
 
 # References <a name="references"></a>
