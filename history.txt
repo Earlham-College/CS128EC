@@ -1,0 +1,946 @@
+    0 This history was taken on Mond. Nov. 06. 2023
+    1  pwd
+    2  ls
+    3  cd Physics/
+    4  ls
+    5  git clone https://github.com/jaorduc/PhysicsWEMO
+    6  pwd
+    7  git init
+    8  git add .
+    9  git commit -m "v0103102023"
+   10  git add .
+   11  git commit -m "v0103102023"
+   12  git config --global user.email jaorduz@gmail.com
+   13  git config --local user.email jaorduz@gmail.com
+   14  git status
+   15  git push origin master
+   16  git config --global user.email jaorduz@gmail.com
+   17  git config --local user.email jaorduz@gmail.com
+   18  git config --global user.name "jaorduc"
+   19  git config --local user.email "jaorduz@gmail.com"
+   20  git init
+   21  git add *
+   22  git status
+   23  git add
+   24  git add .
+   25  git commit -a
+   26  git commit -a "v0203102022"
+   27  git commit "v0203102022"
+   28  git push origin
+   29  git push --set-upstream origin master
+   30  pwd
+   31  ls
+   32  pwd
+   33  cd ..
+   34  ls
+   35  cd Physics/
+   36  ls
+   37  remove -r PhysicsWEMO/
+   38  ls
+   39  git remove rm PhysicsWEMO/
+   40  git pull
+   41  git fetche
+   42  git fetch
+   43  git push origin master
+   44  pwd
+   45  cd PhysicsWEMO/
+   46  git push origin master
+   47  git status
+   48  git add EM_1.ipynb 
+   49  git push origin master
+   50  git add *
+   51  git pull
+   52  git push
+   53  pwd
+   54  cd ..
+   55  ls
+   56  pwd
+   57  ls
+   58  cd ..
+   59  ls
+   60  cd Physics/
+   61  git push
+   62  git remote add *
+   63  git push
+   64  git push jaorduz
+   65  git push origin master
+   66  git push
+   67  pwd
+   68  ls
+   69  cd PhysicsWEMO/
+   70  git oush
+   71  git push
+   72  pwd
+   73  ls
+   74  cd /srv/nbgrader/exchange/
+   75  ls
+   76  cd cs128-s23/
+   77  ls
+   78  cd ..
+   79  sl
+   80  ls
+   81  pwd
+   82  cd old/
+   83  ls
+   84  pwd
+   85  cd
+   86  ls
+   87  git config --global user.name “Javier Orduz”
+   88  git config --global user.email “jaorduz@ieee.org”
+   89  git init 
+   90  git clone https://github.com/Earlham-College/MATH120EC.git
+   91  ls
+   92  git push
+   93  git push merge
+   94  git push origin master
+   95  git push --set-upstream merge master
+   96  git init .
+   97  git init .
+   98  git push push origin master
+   99  git push origin master
+  100  git init .
+  101  git push origin master
+  102  pwd
+  103  ls
+  104  cd MATH120EC/
+  105  ls
+  106  git init .
+  107  git push origin master
+  108  git add .
+  109  git push origin master
+  110  ls
+  111  git init 
+  112  git add .
+  113  cd MATH120EC/
+  114  ls
+  115  git init 
+  116  git add .
+  117  git remote add origin https://github.com/Earlham-College/MATH120EC.git
+  118  git commit "v01"
+  119  git init 
+  120  git add .
+  121  git pull origin master
+  122  git log
+  123  git pull origin master
+  124  pwd
+  125  ls
+  126  git init -a
+  127  git init
+  128  git add .
+  129  git pull 
+  130  git push
+  131  git init
+  132  git add .
+  133  git pull 
+  134  git push
+  135  git init
+  136  git add .
+  137  git pull 
+  138  git push
+  139  pwd
+  140  ls
+  141  cd MATH120EC/
+  142  git init 
+  143  git log
+  144  git add .
+  145  git commit -m "v01aug212023"
+  146  git pull
+  147  git push origin master
+  148  git push -u origin master
+  149  git status
+  150  git push
+  151  git merge
+  152  git fetch
+  153  git status
+  154  git init 
+  155  git add .
+  156  git push
+  157  git remote add origin master
+  158  git remote add origin
+  159  git remote add 
+  160  git remote set-url
+  161  git remote set-url --push 
+  162  pwd
+  163  history
+  164  git clone https://github.com/Earlham-College/DS401EC.git
+  165  pwd
+  166  cd DS401EC/
+  167  ls
+  168  pwd
+  169  git init 
+  170  git add .
+  171  git commit - m "v01augu222023"
+  172  git commit -m "v01augu222023"
+  173  git pull
+  174  git push
+  175  git push origin master
+  176  git add .
+  177  git commit -m "v01augu222023"
+  178  git pull
+  179  git push origin master
+  180  git push
+  181  cd ..
+  182  ls
+  183  cd MATH120EC/
+  184  ls
+  185  git init 
+  186  git add .
+  187  git commit -m "v01augu222023"
+  188  git pull
+  189  git push
+  190  pwd
+  191  ls
+  192  cd ..
+  193  ls
+  194  nano readme.txt
+  195  pwd
+  196  ls
+  197  git init
+  198  git add .
+  199  cd MATH120EC/
+  200  git init 
+  201  git add .
+  202  git pull
+  203  git push
+  204  pwd
+  205  cd ../DS401EC/
+  206  git init 
+  207  git add .
+  208  git pull 
+  209  git push 
+  210  pwd
+  211  ls
+  212  cd DS401EC/
+  213  git init 
+  214  git add .
+  215  git commit "v02augu222023"
+  216  git commit -m "v02augu222023"
+  217  git pull
+  218  git push
+  219  pwd
+  220  cd ../MATH120EC/
+  221  ls
+  222  git init 
+  223  git add .
+  224  git commit "v02augu222023"
+  225  git commit -m "v02augu222023"
+  226  git pull
+  227  git push
+  228  git clone https://github.com/Earlham-College/CS128EC.git
+  229  ls
+  230  cp DS401EC/README.md CS128EC/
+  231  cd CS128EC/
+  232  ls
+  233  pwd
+  234  ls
+  235  mkdir students
+  236  ls
+  237  cd students/
+  238  mkdir group1
+  239  mkdir group2
+  240  mkdir group3
+  241  ls
+  242  mkdir group4
+  243  mkdir group5
+  244  mkdir group6
+  245  mkdir group7
+  246  mkdir group8
+  247  mkdir group9
+  248  mkdir group10
+  249  ls
+  250  pwd
+  251  ls
+  252  cd group1
+  253  cd..
+  254  ls
+  255  pwd
+  256  cd ..
+  257  ls
+  258  cd ..
+  259  ls
+  260  ¬pwd
+  261  pwd
+  262  ls
+  263  git init
+  264  git add .
+  265  git commit -m "v01aug252023" 
+  266  git pull
+  267  git push
+  268  cd students/group1
+  269  nano readme.md
+  270  cd ..
+  271  cp group1/readme.md group2/
+  272  cp group1/readme.md group3/
+  273  cp group1/readme.md group4/
+  274  cp group1/readme.md group5/
+  275  cp group1/readme.md group6/
+  276  cp group1/readme.md group7/
+  277  cp group1/readme.md group8/
+  278  cp group1/readme.md group9/
+  279  cp group1/readme.md group10/
+  280  pwd
+  281  ls
+  282  cd group5
+  283  ls
+  284  cd ..
+  285  ls
+  286  cd ..
+  287  ls
+  288  git init
+  289  git add .
+  290  git commit -m "v02aug252023"
+  291  git pull
+  292  git push
+  293  ls
+  294  git init
+  295  git add .
+  296  git commit -m "v03aug252023"
+  297  git pull
+  298  git push
+  299  pwd
+  300  ls
+  301  mkdir examples
+  302  pwd
+  303  cp ../DS401EC/NB/template.ipynb examples/
+  304  ls
+  305  cd examples/
+  306  ls
+  307  rm Untitled.ipynb 
+  308  ls
+  309  cp template.ipynb exA.ipynb
+  310  ls
+  311  mv template.ipynb .template.ipynb 
+  312  ls
+  313  ls -ctrl
+  314  cp .template.ipynb exB.ipynb 
+  315  ls
+  316  pwd
+  317  ls
+  318  cd CS128EC/
+  319  git init 
+  320  git add .
+  321  git push -m "v04aug252023"
+  322  git commit -m "v04aug252023"
+  323  git pull
+  324  git push
+  325  pwd
+  326  ls
+  327  cd DS401
+  328  ls
+  329  git init 
+  330  git add .
+  331  git commit -m "v05sep112023"
+  332  git push
+  333  git remote add
+  334  git remote add fm
+  335  git remote add -m
+  336  git remote -m add
+  337  git remote -f add
+  338  ls
+  339  cd MATH120EC/
+  340  git init .
+  341  git add .
+  342  git push -m "v01sep112023"
+  343  git commit -m "v01sep112023"
+  344  git push
+  345  git add .
+  346  git commit -m "v02sep112023"
+  347  git push
+  348  ls
+  349  cd DS401
+  350  ls
+  351  git init .
+  352  git commit -m "v03sep112023"
+  353  git add .
+  354  git init .
+  355  git commit -m "v03sep112023"
+  356  git push
+  357  git pull
+  358  git init .
+  359  git add .
+  360  git commit -m "v04sep112023"
+  361  git push
+  362  git push origin master
+  363  git init 
+  364  git add .
+  365  git commit -m "v04sep112023"
+  366  git fetch
+  367  git merge
+  368  git fetch
+  369  git pull
+  370  git pull origin master
+  371  git push
+  372  git push origin master
+  373  pwd
+  374  git init 
+  375  git add .
+  376  git commit -m "01sep122023"s
+  377  git push
+  378  git push origin maste
+  379  git log
+  380  git pull
+  381  git pull origin master
+  382  ls
+  383  cd MATH120EC/
+  384  ls
+  385  git add 
+  386  git add .
+  387  git init
+  388  git commit -m "01sep122023"
+  389  git push
+  390  cd ..
+  391  ls
+  392  cd DS401
+  393  ls
+  394  git init
+  395  git add .
+  396  git push
+  397  git pull
+  398  pwd
+  399  ls
+  400  pwd
+  401  cd ..
+  402  cd DS401EC/
+  403  git init 
+  404  git add .
+  405  git pull
+  406  git push 
+  407  git pull
+  408  git merge
+  409  git fetch
+  410  git merge
+  411  git pull
+  412  git push 
+  413  pwd
+  414  ls
+  415  cd DS401
+  416  ls
+  417  cd ..
+  418  cd DS401EC/
+  419  ls
+  420  git init
+  421  git add .
+  422  git commit -m "v01sep212023"
+  423  git push
+  424  git commit -m "v01sep212023"
+  425  git pull
+  426  git push
+  427  pwd
+  428  ls
+  429  cd DS401EC/
+  430  ls
+  431  pwd
+  432  ls
+  433  cd DS401
+  434  pwd
+  435  ls
+  436  cd ../
+  437  cd DS401EC/
+  438  ls
+  439  pwd
+  440  git add .
+  441  git commit -m "v02sep212023"
+  442  git push
+  443  git add .
+  444  git commit -m "v03sep212023"
+  445  git push
+  446  pwd
+  447  ls
+  448  cd DS401EC/
+  449  ls
+  450  git init
+  451  git add .
+  452  git commit -m "v01oct042023"
+  453  git push
+  454  pwd
+  455  ls
+  456  cd NB
+  457  ls
+  458  cd C
+  459  ls
+  460  mv LogRegression_*.ipynb ../D/
+  461  pwd
+  462  pwd
+  463  ls
+  464  cd DS401EC/
+  465  ls
+  466  pwd
+  467  ls
+  468  cd NB
+  469  ls
+  470  cd B/
+  471  ls
+  472  mv DataScience_10_Lab-*.ipynb ../C/
+  473  ls
+  474  mv DataScience_11_Lab-*.ipynb ../C/
+  475  ls
+  476  cd DS401EC
+  477  ls
+  478  git init
+  479  git add .
+  480  git push
+  481  pwd
+  482  cd DS401EC
+  483  ls
+  484  git init
+  485  git add .
+  486  git commit -m "v02oct042023"
+  487  jaorduz
+  488  git jaorduz
+  489  git push
+  490  git init
+  491  git add .
+  492  git commit -m "v03oct042023"
+  493  git push
+  494  git init 
+  495  git add .
+  496  git commit -m "v01oct092023"
+  497  git merge
+  498  git pull
+  499  git push
+  500  git init 
+  501  git commit -m "v01oct092023"
+  502  git push
+  503  git push origin master
+  504  pwd
+  505  ls
+  506  cd MATH120EC/
+  507  ls
+  508  git init 
+  509  git add .
+  510  git commit -m "v01oct092023"
+  511  git push
+  512  git fetch
+  513  git merge
+  514  git pull
+  515  git push
+  516  git commit -m "v02oct092023"
+  517  git push
+  518  git add .
+  519  git commit -m "v02oct092023"
+  520  git push
+  521  ls
+  522  pwd
+  523  cd readme.txt/
+  524  cd CS128_StdAssgs/
+  525  pwd
+  526  ls
+  527  pwd
+  528  nano test.txt 
+  529  ls
+  530  nano test.txt 
+  531  pwd
+  532  ls
+  533  cd DS401EC/
+  534  ls
+  535  git add 
+  536  git init .
+  537  git add .
+  538  git init
+  539  git add .
+  540  git commit -m "v01Nov012023"
+  541  git push
+  542  pwd
+  543  cd
+  544  ls
+  545  pwd
+  546  ls
+  547  git clone https://github.com/Earlham-College/CS365S24.git
+  548  ls
+  549  cd CS365S24/
+  550  ls
+  551  nano README.md 
+  552  cp ../DS401EC/README.md .
+  553  ls
+  554  nano README.md 
+  555  exit
+  556  pwd
+  557  ls
+  558  cd CS128_StdAssgs/testFolder/
+  559  ls
+  560  pwd
+  561  cd ..
+  562  ls
+  563  cd -
+  564  cp ../01\ -\ Function\ Examples.ipynb .
+  565  ls
+  566  mv 01\ -\ Function\ Examples.ipynb myFirstExample.ipynb
+  567  ls
+  568  open myFirstExample.ipynb 
+  569  open myFirstExample.ipynb &
+  570  jupyter myFirstExample.ipynb &
+  571  jupyter notebook
+  572  cp myFirstExample.ipynb myFirstExampleB.ipynb 
+  573  ls
+  574  mv myFirstExample.ipynb myFirstExampleA.ipynb
+  575  ls
+  576  pwd
+  577  ls
+  578  mkdir myFolder
+  579  ls
+  580  cp myFirstExampleA.ipynb myFolder/
+  581  ls
+  582  cd myFolder/
+  583  ls
+  584  pwd
+  585  cd ../../
+  586  ls
+  587  rm -R testFolder/
+  588  ls
+  589  pwd
+  590  ls
+  591  python3
+  592  pwd
+  593  ls
+  594  cat test.txt 
+  595  cat -l test.txt 
+  596  cat -n test.txt 
+  597  cat -n test.txt &
+  598  cat -man
+  599  cat -help
+  600  cat --help
+  601  cat -A test.txt
+  602  cat -b test.txt
+  603  cat -E test.txt
+  604  cat -n test.txt
+  605  cat -s test.txt
+  606  cat -t test.txt
+  607  cat -T test.txt
+  608  cat -u test.txt
+  609  cat -v test.txt
+  610  sudo apt-get update
+  611  cat -b test.txt
+  612  pwd
+  613  ls -ctrl
+  614  pwd
+  615  ls
+  616  wc test.txt 
+  617  cat -b test.txt 
+  618  pwd
+  619  ls
+  620  grep --help
+  621  grep -i cs128 test.txt
+  622  grep -i -x cs128 test.txt
+  623  grep-x cs128 test.txt
+  624  grep -x cs128 test.txt
+  625  grep -v cs128 test.txt
+  626  cat -v test.txt 
+  627  grep -v cs128 test.txt
+  628  grep -n cs128 test.txt
+  629  grep -n test.txt
+  630  ls > myFileB
+  631  ls
+  632  cat myFileB 
+  633  nano myFileB 
+  634  rm myFileB 
+  635  ls
+  636  ls >> myFileB
+  637  ls
+  638  nano myFileB 
+  639  ls
+  640  cat myFileB 
+  641  cat --version
+  642  pwd
+  643  ls
+  644  mkdir myFirstFolder
+  645  ls
+  646  cd myFirstFolder/
+  647  ls
+  648  pwd
+  649  cd ..
+  650  ls
+  651  mv *.txt myFirstFolder/
+  652  ls
+  653  cd myFirstFolder/
+  654  ls
+  655  cd.
+  656  cd ..
+  657  ls
+  658  pwd
+  659  mkdir mySecondFolder/
+  660  mv *.ipynb mySecondFolder/
+  661  ls
+  662  cd mySecondFolder/
+  663  ls
+  664  cd ..
+  665  ls
+  666  mv mySecondFolder/ IPYNB
+  667  ls
+  668  mv myFirstFolder/ TXT
+  669  ls
+  670  mkdir Examples
+  671  ls
+  672  cd Examples/
+  673  ls
+  674  nano FrstNnFl.txt
+  675  ls
+  676  cat FrstNnFl.txt 
+  677  ls
+  678  nano example.py
+  679  ls
+  680  cat example.py 
+  681  py
+  682  pwd
+  683  ls
+  684  python3 example.py 
+  685  ls
+  686  python3
+  687  example.py
+  688  ls
+  689  python example.py 
+  690  python3 example.py 
+  691  python3 --version
+  692  python3.7 --version
+  693  python3 example.py 
+  694  nano example.py 
+  695  python3 example.py 
+  696  pwd
+  697  ls
+  698  cd CS128_StdAssgs/
+  699  mkdir copyFiles
+  700  ls
+  701  cd copyFiles/
+  702  cp ~barbeda/cs128-share/secretMessage2.txt .
+  703  pwd
+  704  rm secretMessage2.txt 
+  705  ls
+  706  cp /eccs/home/barbeda/cs128-share/secretMessage2.txt .
+  707  ls
+  708  pwd
+  709  cp --man
+  710  cp --help
+  711  cp -help
+  712  cp -- 
+  713  cp -- h
+  714  cp --hep
+  715  cp --help
+  716  mv --help
+  717  man ascii
+  718  ls
+  719  cd CS128_StdAssgs/
+  720  ls
+  721  more myFileB 
+  722  ls
+  723  mv myFileB myFileB.txt
+  724  ls
+  725  more myFileB.txt 
+  726  LS
+  727  ls
+  728  wc myFileB.txt 
+  729  wc 10\ -\ Dictionaries\ Examples.pdf 
+  730  more myFileB.txt 
+  731  grep function myFileB.txt 
+  732  grep functionA myFileB.txt 
+  733  grep -i functionA myFileB.txt 
+  734  grep -i "functionA" myFileB.txt 
+  735  grep -i "function" myFileB.txt 
+  736  more myFileB.txt 
+  737  grep -i "function" myFileB.txt 
+  738  grep -i "function" myFileB.txt | wc
+  739  wc --help
+  740  grep -i "function" myFileB.txt | wc -l
+  741  grep -i "function" myFileB.txt | wc -w
+  742  more myFileB.txt 
+  743  grep --version
+  744  pwd
+  745  ls
+  746  mkdir OrduzFolderNameShare
+  747  ls
+  748  cd OrduzFolderNameShare/
+  749  nano readme.txt
+  750  mv readme.txt  readmeA.txt 
+  751  ls
+  752  cp readmeA.txt readmeB.txt 
+  753  cp readmeA.txt readmeC.txt 
+  754  cp readmeA.txt readmeD.txt 
+  755  ls
+  756  pwd
+  757  ls
+  758  pwd
+  759  cd CS128_StdAssgs/
+  760  ls
+  761  cd OrduzFolderNameShare/
+  762  ls
+  763  cat readmeA.txt 
+  764  wc readmeA.txt 
+  765  grep "problem" readmeA.txt | wc 
+  766  cat readmeA.txt 
+  767  grep "Body" readmeA.txt | wc 
+  768  grep "body" readmeA.txt | wc 
+  769  grep "The" readmeA.txt | wc 
+  770  grep "the" readmeA.txt | wc 
+  771  grep "orbital" readmeA.txt | wc 
+  772  wc readmeA.txt 
+  773  pwd
+  774  emacs readmeE.txt
+  775  more readmeE.txt 
+  776  wc readmeE.txt 
+  777  grep "hola" readmeE.txt 
+  778  grep "hola" readmeE.txt | wc
+  779  grep "mundo" readmeE.txt | wc
+  780  grep "bonito" readmeE.txt | wc
+  781  emacs readmeE.txt
+  782  wc readmeE.txt 
+  783  grep "hola" readmeE.txt | wc
+  784  cat readmeE.txt
+  785  wc readmeE.txt 
+  786  grep "hola" readmeE.txt | wc
+  787  grep "bonito" readmeE.txt | wc
+  788  grep "mundo" readmeE.txt | wc
+  789  grep "y" readmeE.txt | wc
+  790  grep "lindo" readmeE.txt | wc
+  791  grep "lindo" readmeE.txt | wc-l
+  792  grep "lindo" readmeE.txt | wc -l
+  793  grep "lindo" readmeE.txt | wc -w
+  794  emacs readmeE.txt
+  795  wc readmeE.txt 
+  796  cat readmeE.txt
+  797  grep "hola" readmeE.txt | wc
+  798  grep "hola" readmeE.txt | wc -l 
+  799  grep "hola" readmeE.txt | wc -w
+  800  grep "hola" readmeE.txt | wc -w -l
+  801  pwd
+  802  ls
+  803  ls > myfile.txt
+  804  ls
+  805  cat myfile.txt 
+  806  pwd
+  807  ls
+  808  rm myfile.txt 
+  809  ls
+  810  rm *.txt~
+  811  ls
+  812  cat readmeA.txt readmeB > readmeAB.txt
+  813  cat readmeA.txt readmeB.txt > readmeAB.txt
+  814  cat readmeAB.txt 
+  815  pwd
+  816  ls
+  817  rm readmeAB.txt 
+  818  ls
+  819  cd ..
+  820  sl
+  821  ls
+  822  pwd
+  823  ls
+  824  cd IPYNB/
+  825  ls
+  826  cd ..
+  827  cd Examples/
+  828  ls
+  829  nano 
+  830  fg
+  831  ls
+  832  nano convert.py 
+  833  rm convert.py 
+  834  nano 
+  835  ls
+  836  nano convert.py 
+  837  ls
+  838  nano test.py
+  839  python3 test.py 
+  840  nano test.py
+  841  python test.py 
+  842  python3 test.py 
+  843  nano test.py
+  844  python3 test.py 
+  845  cat test.py
+  846  python3 test.py 
+  847  nano test.py
+  848  nano convert.py
+  849  python3 test.py 
+  850  nano convert.py
+  851  python3 test.py 
+  852  nano test.py
+  853  python3 test.py 
+  854  nano convert.py
+  855  python3 test.py 
+  856  nano test.py
+  857  python3 test.py 
+  858  nano test.py
+  859  python3 test.py 
+  860  nano test.py
+  861  python3 test.py 
+  862  ls
+  863  rm *.pyc __pycache__/
+  864  cd __pycache__/
+  865  ls
+  866  cd ..
+  867  ls
+  868  rm -r __pycache__/
+  869  ls
+  870  python3 test.py 
+  871  ls
+  872  rm __pycache__/
+  873  ls
+  874  rm -r __pycache__/
+  875  ls
+  876  cat test.py 
+  877  pwd
+  878  ls
+  879  python3 test.py 
+  880  cd ..
+  881  ls
+  882  python
+  883  ls
+  884  cd Examples/
+  885  ls
+  886  python3
+  887  cat convert.py 
+  888  python3
+  889  cd ..
+  890  python3
+  891  ascii --help
+  892  ascii --man
+  893  ascii
+  894  man ascii
+  895  pwd
+  896  ls
+  897  cd CS128_StdAssgs/
+  898  ls
+  899  emacs myFileB 
+  900  wc myFileB
+  901  pwd
+  902  ls
+  903  rm *~
+  904  ls
+  905  head myFileB 
+  906  pwd
+  907  ls
+  908  cd CS128EC/
+  909  ls
+  910  rm Untitled.ipynb 
+  911  ls
+  912  mv Untitled\ Folder/ DayTips
+  913  ls
+  914  cd DayTips/
+  915  nano fString.py
+  916  pwd
+  917  ls
+  918  nano CSVToJSON.py
+  919  cat CSVToJSON.py 
+  920  nano test.csv
+  921  python CSVToJSON.py 
+  922  ls
+  923  nano lyrics.py
+  924  pip install lyricsgenius
+  925  pip install --upgrade pip
+  926  ls
+  927  python lyrics.py 
+  928  python3 lyrics.py 
+  929  pip3 install lyricsgenius
+  930  python3 lyrics.py 
+  931  nano lyrics.py
+  932  python3 lyrics.py 
+  933  nano lyrics.py
+  934  python3 lyrics.py 
+  935  nano lyrics.py
+  936  pwd
+  937  cd CS128_StdAssgs/
+  938  ls
+  939  pwd
+  940  ls > readme.txt
+  941  ls
+  942  more readme.txt 
+  943  ls
+  944  history 
+  945  history > history.txt

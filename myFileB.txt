@@ -1,0 +1,34 @@
+
+This is file which is edited by EMACS.
+Emacs is a poweful text editor.
+
+
+
+01 - Function Examples.ipynb
+02 - Loop Examples.ipynb
+03 - Packages Examples.ipynb
+04.ipynb
+05 - If Examples.ipynb
+06-ClassLesson.ipynb
+06 - List Examples.ipynb
+07 - Advanced Lists Examples.ipynb
+08 - While Examples.ipynb
+09 - Graphing Examples.ipynb
+10 - Dictionaries Examples.ipynb
+10 - Dictionaries Examples.pdf
+11 - String Examples.ipynb
+12 - Advanced String Examples.ipynb
+12 - Advanced String Examples-Sol.ipynb
+13A - ExampleFiles.ipynb
+13B -  Files.ipynb
+13 - File Examples.ipynb
+demofile2.txt
+examplesStrings_A.ipynb
+example.txt
+myexampJPNB.ipynb
+myFileB
+notPalindrome.txt
+out.txt
+stuff.txt
+test.txt
+Untitled.ipynb

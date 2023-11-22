@@ -1,0 +1,34 @@
+# Files
+fst = open("first.dat","r")
+scd = open("second.dat","r")
+# Append File
+frth = open("fourth.dat","w")
+
+
+for line in fst:
+	if 'A' in line:
+		four_write.append(line)
+	else:
+		pass
+
+
+
+
+for line in scd:
+    if 'AACCTTNN' in line:
+	four_write.append(line)
+    else:
+	pass
+
+for i in four_write:
+	frth.write(i) frth.write("\n")
+
+
+fst.close()
+scd.close()
+frth.close()
+
+
+if __name__ == '__main__': 
+	printString('hello world')
+    	exit()
